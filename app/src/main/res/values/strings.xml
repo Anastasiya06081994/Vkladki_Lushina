@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vkladki_Lushina</string>
+    <string name="tab_text_1">Вкладка 1</string>
+    <string name="tab_text_2">Вкладка 2</string>
+    <string name="tab_text_3">Вкладка 3</string>
+    <string name="text_name_1">Сиреневый букет</string>
+    <string name="text_name_2">Жёлтый букет</string>
+    <string name="text_name_3">Красный букет</string>
+</resources>
